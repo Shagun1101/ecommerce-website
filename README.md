@@ -1,4 +1,4 @@
-# ecommerce-website
+# [ecommerce-website](https://github.com/Shagun1101/ecommerce-website.git)
 Cara is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 # Demo
 ![mainpic](https://github.com/user-attachments/assets/3a740e80-cf82-4bc8-84cb-b741fd8d3e76)
@@ -7,9 +7,15 @@ Cara is a fully responsive ecommerce website, maximum compatiblities in all mobi
 ![main4](https://github.com/user-attachments/assets/811c39fe-27b5-4d87-b7c5-dbff48064697)
 ![main5](https://github.com/user-attachments/assets/d31294c6-eb19-4603-8f29-c209589ae999)
 
+# [Prerequisites]()
+Before you begin, ensure you have met the following requirements:
+[Git](https://git-scm.com/downloads) must be installed on your operating system.
+
 # Installing Cara
-To install Cara, follow these steps:
+To install **Cara**, follow these steps:
 
 Linux and macOS:
+`sudo git clone https://github.com/Shagun1101/ecommerce-website.git`
 
 Windows:
+`git clone https://github.com/Shagun1101/ecommerce-website.git`
