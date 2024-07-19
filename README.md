@@ -8,7 +8,7 @@ Cara is a fully responsive ecommerce website, maximum compatiblities in all mobi
 ![main5](https://github.com/user-attachments/assets/d31294c6-eb19-4603-8f29-c209589ae999)
 
 # Installing Cara
-To install ### Cara, follow these steps:
+To install Cara, follow these steps:
 
 Linux and macOS:
 
